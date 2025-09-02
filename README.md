@@ -10,4 +10,4 @@ Welcome to the **Computational Statistics Lab** repository!
    
 ---
 
-If you find this repository helpful, please start it. Happy coding!
+If you find this repository helpful, please star it. Happy coding!
