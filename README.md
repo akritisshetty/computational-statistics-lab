@@ -1,6 +1,6 @@
 # Computational Statistics Lab
 
-Welcome to the **Computational Statistics Lab** repository! This repository contains various programs that demonstrate essential data manipulation, transformation, and time series analysis techniques in Python.
+Welcome to the **Computational Statistics Lab** repository
 
 ## Table of Contents
 
