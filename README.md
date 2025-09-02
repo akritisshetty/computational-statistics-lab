@@ -1,6 +1,6 @@
 # Computational Statistics Lab
 
-Welcome to the **Computational Statistics Lab** repository
+Welcome to the **Computational Statistics Lab** repository!
 
 ## Table of Contents
 
