@@ -20,6 +20,11 @@ Welcome to the **Computational Statistics Lab** repository!
    * Multivariate Time Series
    * Time Series Forecasting
 
+4. **Program to measure central tendency and measures of dispersion**
+
+   * Central tendency : Mean , Median, Mode
+   * Measures of Dispersion : Standard Deviation, Variance, Mean deviation and Quartile deviation
+
 ---
 
 If you find this repository helpful, please star it. Happy coding!
