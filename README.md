@@ -23,8 +23,8 @@ Welcome to the **Computational Statistics Lab** repository!
 
 4. **Program to Measure Central Tendency and Measures of Dispersion**
 
-   * Central tendency : Mean , Median, Mode
-   * Measures of Dispersion : Standard Deviation, Variance, Mean deviation and Quartile deviation
+   * Central Tendency: Mean , Median, Mode
+   * Measures of Dispersion: Standard Deviation, Variance, Mean deviation and Quartile deviation
 
 ---
 
