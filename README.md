@@ -25,6 +25,11 @@ Welcome to the **Computational Statistics Lab** repository!
 
    * Central Tendency: Mean , Median, Mode
    * Measures of Dispersion: Standard Deviation, Variance, Mean deviation and Quartile deviation
+     
+5. **Program to Perform Cross-Validation and Error Measurement**
+
+   * Cross-Validation Approaches: Validation Set, Leave-One-Out (LOOCV), K-Fold
+   * Error Metrics: Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), R² Score
 
 ---
 
