@@ -32,11 +32,8 @@ Welcome to the **Computational Statistics Lab** repository!
    * Error Metrics: Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), R² Score
 
 6. **Program for Analysis of Distribution Types for a Given Frequency Distribution**
-   * Normal Distribution
-   * Binomial Distribution
-   * Poisson Distribution
-   * Bernoulli Distribution
-
+   * Continuous Probability Distribution: Normal
+   * Discrete Probability Distribution: Binomial, Poisson, Bernoulli
 ---
 
 If you find this repository helpful, please star it. Happy coding!
