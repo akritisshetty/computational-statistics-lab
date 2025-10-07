@@ -30,10 +30,18 @@ Welcome to the **Computational Statistics Lab** repository!
 
    * Cross-Validation Approaches: Validation Set, Leave-One-Out (LOOCV), K-Fold
    * Error Metrics: Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), R² Score
+   * (Dataset uploaded.)
 
 6. **Program for Analysis of Distribution Types for a Given Frequency Distribution**
+   
    * Continuous Probability Distribution: Normal
    * Discrete Probability Distribution: Binomial, Poisson, Bernoulli
+  
+7. **Program to implement one sample, two sample and paired sample t-tests for a sample data and analyse the results**
+
+  * One-Sample t-Test
+  * Two-Sample t-Test
+  * Paired-Sample t-Test
 ---
 
 If you find this repository helpful, please star it. Happy coding!
