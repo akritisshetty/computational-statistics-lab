@@ -39,9 +39,9 @@ Welcome to the **Computational Statistics Lab** repository!
   
 7. **Program to implement one sample, two sample and paired sample t-tests for a sample data and analyse the results**
 
-  * One-Sample t-Test
-  * Two-Sample t-Test
-  * Paired-Sample t-Test
+   * One-Sample t-Test
+   * Two-Sample t-Test
+   * Paired-Sample t-Test
 ---
 
 If you find this repository helpful, please star it. Happy coding!
