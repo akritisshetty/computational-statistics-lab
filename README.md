@@ -42,6 +42,15 @@ Welcome to the **Computational Statistics Lab** repository!
    * One-Sample t-Test
    * Two-Sample t-Test
    * Paired-Sample t-Test
+
+8. **Program to implement correlation, rank correlation, and regression; and visualize results using**
+   * X–Y scatter plots
+   * Heatmaps of correlation matrices
+   * Regression line plots
+
+9. **Program to implement One-Way and Two-Way ANOVA tests and**
+   * Analyze and interpret the results
+   * Visualize group mean comparisons
 ---
 
 If you find this repository helpful, please star it. Happy coding!
