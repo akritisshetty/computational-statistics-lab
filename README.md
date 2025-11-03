@@ -52,11 +52,11 @@ Welcome to the **Computational Statistics Lab** repository!
    * Heatmaps of correlation matrices
    * Regression line plots
   
-10. **Program to perform Principal Component Analysis (PCA) on the Wisconsin Breast Cancer dataset and visualize the dimensionality-reduced data; including:**
-   * Standardization of features
-   * Extraction of principal components
-   * 2-D PCA scatter plot for class visualization
-   * Interpretation of explained variance and class separation
+10. **Principal Component Analysis (PCA) on Wisconsin Breast Cancer Dataset**
+  * Standardizing numerical features
+  * Computing principal components
+  * Visualizing results using a 2-D PCA scatter plot
+  * Interpreting explained variance to understand information retention and separation between malignant and benign cases
 ---
 
 If you find this repository helpful, please star it. Happy coding!
