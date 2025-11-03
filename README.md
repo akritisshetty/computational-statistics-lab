@@ -53,10 +53,10 @@ Welcome to the **Computational Statistics Lab** repository!
    * Regression line plots
   
 10. **Principal Component Analysis (PCA) on Wisconsin Breast Cancer Dataset**
-  * Standardizing numerical features
-  * Computing principal components
-  * Visualizing results using a 2-D PCA scatter plot
-  * Interpreting explained variance to understand information retention and separation between malignant and benign cases
----
+   * Standardization of features
+   * Extraction of principal components
+   * 2-D PCA scatter plot for class visualization
+   * Interpretation of explained variance and class separation
+    ---
 
 If you find this repository helpful, please star it. Happy coding!
