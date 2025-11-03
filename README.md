@@ -57,6 +57,7 @@ Welcome to the **Computational Statistics Lab** repository!
    * Extraction of principal components
    * 2-D PCA scatter plot for class visualization
    * Interpretation of explained variance and class separation
-    ---
+
+---
 
 If you find this repository helpful, please star it. Happy coding!
